@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Saikat Biswas</h1>
-<h3 align="center">A passionate frontend developer from India (WB)</h3>
+# 💫 Hi 👋, I'm Saikat Biswas
+**A passionate Frontend Developer || React Js Developer**
 
-- 🌱 I’m currently learning **React Js**
+Email Me 👉 ✉️ **saikatb487@gmail.com** For Project or Anything Else. 😊😊
 
-- 📫 How to reach me **saikatb487@gmail.com**
+- 🔭 **I’m currently working on:** My Portfolio Website
+- 🌱 **I’m currently learning:** React JS
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 😄 **Pronouns:** Saikat
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
